@@ -16,6 +16,7 @@ public class DemoTestGit {
      */
     public static void main(String[] args) {
         System.out.println("Hello mọi người, ta đang test git!!");
+        System.out.println("Test git 123");
     }
     
 }
