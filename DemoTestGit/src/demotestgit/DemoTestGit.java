@@ -18,6 +18,7 @@ public class DemoTestGit {
         System.out.println("Hello mọi người, ta đang test git!!");
         
         System.out.println("jifwejifjwiefjwiefj");
+        System.out.println("Alo");
     }
     
 }
